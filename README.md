@@ -7,6 +7,7 @@ Huge shout out to [reider-roque](https://github.com/reider-roque) as this is (so
 # Usage
 
 `python3 gpdecryptor.py -f/--file <password file>` - Decrypts password from file.
+
 `python3 gpdecryptor.py -p "password"` - Decrypts specified password.
 
 # License
